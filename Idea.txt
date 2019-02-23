@@ -1,0 +1,4 @@
+My project will have the following functionalities:
+1) Login
+2) Module a
+3) Module b
